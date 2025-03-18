@@ -125,3 +125,5 @@ Below is a high-level architecture diagram:
 ## Conclusion
 This multi-cloud architecture demonstrates how services can be distributed across AWS and Azure while ensuring interoperability, high availability, and fault tolerance. The demo showcases cross-cloud data processing, synchronization, and delivery, highlighting the seamless integration between the two platforms.
 
+
+![Image](https://github.com/user-attachments/assets/e13fc8c1-30c5-4c20-8486-8e4ab79daf76)
