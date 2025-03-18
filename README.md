@@ -127,3 +127,4 @@ This multi-cloud architecture demonstrates how services can be distributed acros
 
 
 ![Image](https://github.com/user-attachments/assets/e13fc8c1-30c5-4c20-8486-8e4ab79daf76)
+![Image](https://github.com/user-attachments/assets/33daff64-f8e4-4e25-8709-f2ba92129cb7)
