@@ -1,7 +1,6 @@
 # Multi-Cloud-Architecture
 
 
-# Multi-Cloud Architecture Documentation
 
 ## Overview
 This document outlines a multi-cloud architecture where services are distributed across two cloud providers, **AWS** and **Azure**. The goal is to achieve high availability, fault tolerance, and interoperability between the platforms. The architecture leverages the strengths of both cloud providers while ensuring seamless communication and data exchange.
